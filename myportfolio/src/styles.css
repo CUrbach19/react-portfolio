@@ -1,0 +1,152 @@
+.container {
+    padding-top: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20rem;
+}
+
+.jobTile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutMe {
+    padding-top: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.work-title-left {
+    margin-left: 35%;
+    position: relative;
+    top: 5rem;
+}
+
+.work-title-right {
+    margin-left: 50%;
+    position: relative;
+    top: 5rem;
+}
+
+.work-tile-left {
+    display: flex;
+    align-items: center;
+    margin-left: 15%;
+    gap: 3%;
+}
+
+.work-tile-right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 15%;
+    gap: 3%;
+}
+
+.workP {
+    width: 40%;
+}
+
+.paragraph {
+    width: 30%;
+    padding: 3rem;
+}
+
+.aboutButtons {
+    padding-top: 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.home-hero {
+    padding-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.navButton {
+    background-color: lightgray;
+    margin-top: 1rem;
+    border-radius: 5%;
+    border: none;
+    width: 6rem;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.contact-buttons {
+    display: flex;
+    justify-content: space-around;
+    height: 3rem;
+}
+
+.contact-button {
+    height: 3rem;
+    background-color: aquamarine;
+}
+
+.project-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pic-small {
+    height: 20rem;
+    width: 20rem;
+    border-radius: 50%;
+}
+
+
+.site-title {
+    font-size: 2rem;
+}
+
+.navBar {
+    background-color: grey;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 2rem;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+}
+
+.navBar ul {
+    padding: 0;
+    margin-right: 5%;
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
+
+.navBar a {
+    text-decoration: none;
+    color: inherit;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: .25rem;
+}
+
+.navBar li:active {
+    background-color: blue;
+    
+}
+
+.navBar li:hover {
+    background-color: brown;
+}
