@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.eefb16ba.css",
-    "main.js": "/react-portfolio/static/js/main.9a0737ad.js",
+    "main.css": "/react-portfolio/static/css/main.5286af6b.css",
+    "main.js": "/react-portfolio/static/js/main.78d8de21.js",
     "static/js/787.1f11dfe9.chunk.js": "/react-portfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/frisbee.jpg": "/react-portfolio/static/media/frisbee.686523c2e38c4c0e7b66.jpg",
+    "static/media/trivia.jpg": "/react-portfolio/static/media/trivia.eacb429cb0fdb89f3fb2.jpg",
+    "static/media/basketball.jpg": "/react-portfolio/static/media/basketball.d0a309fbf3587feb0ba9.jpg",
+    "static/media/selfPic.jpg": "/react-portfolio/static/media/selfPic.8b6eec95f4ba2ea18f62.jpg",
     "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-portfolio/index.html",
-    "main.eefb16ba.css.map": "/react-portfolio/static/css/main.eefb16ba.css.map",
-    "main.9a0737ad.js.map": "/react-portfolio/static/js/main.9a0737ad.js.map",
+    "main.5286af6b.css.map": "/react-portfolio/static/css/main.5286af6b.css.map",
+    "main.78d8de21.js.map": "/react-portfolio/static/js/main.78d8de21.js.map",
     "787.1f11dfe9.chunk.js.map": "/react-portfolio/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eefb16ba.css",
-    "static/js/main.9a0737ad.js"
+    "static/css/main.5286af6b.css",
+    "static/js/main.78d8de21.js"
   ]
 }
